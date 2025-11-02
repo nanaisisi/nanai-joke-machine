@@ -2,7 +2,7 @@
 
 ## 概要
 
-NanAI Joke Machine の機能拡張と安定化。
+nanai Joke Machine の機能拡張と安定化。
 
 ## 機能枠の提案
 

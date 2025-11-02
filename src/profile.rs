@@ -4,6 +4,7 @@ use serde::Deserialize;
 pub struct Profile {
     pub cpu_cores: u32,
     pub cpu_breakdown: Option<String>,
+    pub cpu_frequency: Option<f32>,
     pub memory_gb: u32,
     pub npu_count: Option<u32>,
     pub npu_breakdown: Option<String>,

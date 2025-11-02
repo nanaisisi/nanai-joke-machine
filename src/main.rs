@@ -30,9 +30,9 @@ async fn main() {
     let profile: Profile = toml::from_str(&profile_content)
         .unwrap_or_else(|_| panic!("Failed to parse profile: {}", profile_path));
 
-    println!("Starting NanAI Joke Machine with profile: {}", profile_name);
+    println!("Starting nanai Joke Machine with profile: {}", profile_name);
     // Always enable start messages
-    println!("ch0 [システム起動] NanAI Joke Machine 起動完了");
+    println!("ch0 [システム起動] nanai Joke Machine 起動完了");
     println!(
         "プロファイル: {} - CPU: {} cores, Memory: {} GB, Network: {} Mbps",
         profile_name, profile.cpu_cores, profile.memory_gb, profile.network_mbps

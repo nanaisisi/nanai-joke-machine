@@ -1,8 +1,8 @@
-# NanAI Joke Machine 開発計画
+# nanai Joke Machine 開発計画
 
 ## 概要
 
-NanAI Joke Machine の開発ロードマップと将来の拡張計画。
+nanai Joke Machine の開発ロードマップと将来の拡張計画。
 
 ## 現在の安定版（v0.1.0）
 
