@@ -1,0 +1,6 @@
+cpu_cores = 4
+memory_gb = 64
+npu_count = 0
+gpu_count = 0
+network_mbps = 1000
+wireless = true

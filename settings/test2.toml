@@ -1,0 +1,10 @@
+cpu_cores = 8
+cpu_breakdown = "4:0:4"
+memory_gb = 64
+npu_count = 2
+npu_breakdown = "1:0"
+npu_tops = 50
+gpu_count = 2
+gpu_breakdown = "1:1"
+network_mbps = 1000
+wireless = true

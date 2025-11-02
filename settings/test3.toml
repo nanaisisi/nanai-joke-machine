@@ -1,0 +1,9 @@
+cpu_cores = 512
+cpu_breakdown = "2cpu"
+memory_gb = 4096
+npu_count = 2
+npu_breakdown = "0:2"
+gpu_count = 4
+gpu_breakdown = "0:4"
+network_mbps = 500
+wireless = false

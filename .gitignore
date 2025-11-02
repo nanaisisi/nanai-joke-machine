@@ -1,0 +1,8 @@
+/target
+Cargo.lock
+
+# Private profiles for privacy
+settings/my_pc.toml
+settings/my_pc_2.toml
+my_pc.toml
+my_pc_2.toml
